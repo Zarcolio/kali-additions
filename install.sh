@@ -27,6 +27,16 @@ echo === Done installing NotepadQQ $version_notepadqq ===
 echo ===================================================
 echo -e "${NC}"
 
+echo -e "$(tput setaf 1)"
+echo =========================
+echo === Installing OpenVAS ===
+echo =========================
+echo -e "${NC}"
+
+apt-get install openvas
+openvas-setup
+
+
 ####################
 # Pull from Github #
 ####################

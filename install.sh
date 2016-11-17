@@ -33,7 +33,7 @@ echo === Installing OpenVAS ===
 echo =========================
 echo -e "${NC}"
 
-apt-get install openvas
+apt-get install openvas -y
 openvas-setup
 
 

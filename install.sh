@@ -72,7 +72,11 @@ git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner
 git clone https://github.com/joaomatosf/jexboss
 
-
+# Ease-Creds:
+apt-get install ferret -y
+apt-get install hostapd -y
+apt-get install ipcalc -y
+git clone https://github.com/brav0hax/easy-creds
 ####################
 # Direct downloads #
 ####################

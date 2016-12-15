@@ -77,6 +77,7 @@ apt-get install ferret -y
 apt-get install hostapd -y
 apt-get install ipcalc -y
 apt-get install isc-dhcp-server -y
+apt-get install freeradius-wpe -y
 git clone https://github.com/brav0hax/easy-creds
 ####################
 # Direct downloads #

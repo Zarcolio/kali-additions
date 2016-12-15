@@ -72,13 +72,17 @@ git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner
 git clone https://github.com/joaomatosf/jexboss
 
-# Ease-Creds:
+# Easy-Creds:
 apt-get install ferret -y
 apt-get install hostapd -y
 apt-get install ipcalc -y
 apt-get install isc-dhcp-server -y
 apt-get install freeradius-wpe -y
 git clone https://github.com/brav0hax/easy-creds
+
+# Fern wifi cracker
+apt-get install python-scapy
+
 ####################
 # Direct downloads #
 ####################

@@ -71,6 +71,7 @@ git clone https://github.com/commixproject/commix.git commix
 git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
 git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner
 git clone https://github.com/joaomatosf/jexboss
+git clone https://github.com/vincentcox/bypass-firewalls-by-DNS-history
 
 # Easy-Creds:
 apt-get install ferret -y
